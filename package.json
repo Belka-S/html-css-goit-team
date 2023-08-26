@@ -1,11 +1,11 @@
 {
-  "name": "parcel-team-project-mimino",
+  "name": "html-css-goit-team",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DimaShabatyn.github.io/parcel-team-project-mimino",
+  "homepage": "belka-s.github.io/html-css-goit-team/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-team-project-mimino/"
+    "build": "parcel build src/*.html --public-url /html-css-goit-team/"
   },
   "repository": {
     "type": "git",
